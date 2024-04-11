@@ -1,0 +1,11 @@
+2: IPV4 address test failure due to incomplete configuration.
+7: IP number component is out of range [0-255]
+11: IP number component is out of range [0-255]
+16: IP number component is out of range [0-255]
+20: Unrecognized token.
+20: Unrecognized token.
+20: Unrecognized token.
+20: Unrecognized token.
+22: Unrecognized token.
+24: Invalid mask.
+28: IPV4 address test failure due to incomplete configuration.

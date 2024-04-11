@@ -1,0 +1,38 @@
+Sequence Number: 1
+Minimum: 0.61
+Maximum: 405
+Number of entries: 6
+Average: 70.58
+Standard Deviation: 149.608
+Is monotonic: No
+
+Sequence Number: 2
+Minimum: 16
+Maximum: 26
+Number of entries: 5
+Average: 20.8
+Standard Deviation: 3.70945
+Is monotonic: Yes, increasing
+
+Sequence Number: 3
+Minimum: 1
+Maximum: 1
+Number of entries: 5
+Average: 1
+Standard Deviation: 0
+Is monotonic: Yes
+
+Sequence Number: 4
+Empty!
+
+Sequence Number: 5
+Minimum: 0.005
+Maximum: 0.005
+Number of entries: 1
+Average: 0.005
+Standard Deviation: 0
+Is monotonic: Yes
+
+Sequence Number: 6
+Empty!
+

@@ -1,0 +1,3 @@
+1: Invalid line syntax.
+12: Unrecognized token.
+12: Unrecognized token.
